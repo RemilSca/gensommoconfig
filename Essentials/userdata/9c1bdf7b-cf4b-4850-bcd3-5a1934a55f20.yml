@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.146.253.4
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682020929545
+  login: 1682020834439
+money: '0'
+last-account-name: RemilSca
+logoutlocation:
+  world: 3ec36058-b37f-46c6-9651-277ecde2ac0d
+  world-name: world
+  x: 0.21188051463620416
+  y: 92.0
+  z: -0.3584444197871572
+  yaw: 69.74884796142578
+  pitch: -11.100003242492676

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.173.18.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682085146816
+  login: 1682079949540
+money: '0'
+last-account-name: Wensomt
+logoutlocation:
+  world: 3ec36058-b37f-46c6-9651-277ecde2ac0d
+  world-name: world
+  x: 72.56945560377746
+  y: 93.7458317781709
+  z: 48.70204098984761
+  yaw: 167.3472442626953
+  pitch: 16.650136947631836
